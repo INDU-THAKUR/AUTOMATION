@@ -2,7 +2,7 @@
 
 # SCRIPT
 
-## Write script in bashrc
+### Write script in bashrc
     #!/bin/bash
 
     touch auto_out.txt
