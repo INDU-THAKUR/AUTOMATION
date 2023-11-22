@@ -88,7 +88,7 @@ WantedBy=default.target
 ### If status show (activating) then reboot your system.
   
     sudo reboot
-### Check your output file to verify , script is runnig after booting or not.
+### Check your output file to verify script is runnig after booting or not.
   
 
  
